@@ -1,0 +1,16 @@
+*.pyc
+.DS_Store
+*.swp
+/venv/
+/static/
+/media/
+/.vagrant/
+ansible/.vagrant/
+/Vagrantfile.local
+/docs/_build/
+node_modules
+ansible/920-special-cms_keystore/*
+ansible/group_vars/*
+ansible/host_vars/*
+.env
+env.example
